@@ -6,10 +6,18 @@
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy una Desarrolladora Web, estudiante de @Laboratoria y @TalentoDigitalChile, apasionada por crear experiencias digitales y construir aplicaciones web. Me encanta trabajar en proyectos desafiantes y aprender nuevas tecnologías. Me considero una persona creativa y orientada a los detalles.
 
+### ✨ Me encanta trabajar con
+<div id="badge" align=left>
+    <img src="https://img.shields.io/badge/HTML5-cccccb?style=for-the-badge&logo=html5&logoColor=dc5831" alt="HTML Badge"/>
+    <img src="https://img.shields.io/badge/CSS3-cccccb.svg?style=for-the-badge&logo=CSS3&logoColor=dc5831" alt="CSS Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-cccccb.svg?style=for-the-badge&logo=JavaScript&logoColor=dc5831" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-cccccb.svg?style=for-the-badge&logo=nodedotjs&logoColor=dc5831" alt="Node-Js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-cccccb.svg?style=for-the-badge&logo=PostgreSQL&logoColor=dc5831" alt="Postgres"/>
+</div>
 
-
+### ✉ Contacto
 No dudes en contactarme si quieres colaborar en algún proyecto o simplemente charlar sobre tecnología! Estoy emocionada de conectar con personas apasionadas y aprender juntos.
-<div id="badges" align=left>
+<div id="contact" align=left>
   <a href="https://www.linkedin.com/in/lizetteperez-correa/">
     <img src="https://img.shields.io/badge/LinkedIn-cccccb?style=for-the-badge&logo=linkedin&logoColor=dc5831" alt="LinkedIn Badge"/>
   </a>
@@ -19,3 +27,5 @@ No dudes en contactarme si quieres colaborar en algún proyecto o simplemente ch
 </div>
 
 ¡Gracias por visitar mi perfil de GitHub!
+
+
