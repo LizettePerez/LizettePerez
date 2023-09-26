@@ -12,7 +12,6 @@
     <img src="https://img.shields.io/badge/CSS3-cccccb.svg?style=for-the-badge&logo=CSS3&logoColor=dc5831" alt="CSS Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-cccccb.svg?style=for-the-badge&logo=JavaScript&logoColor=dc5831" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Node.js-cccccb.svg?style=for-the-badge&logo=nodedotjs&logoColor=dc5831" alt="Node-Js"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-cccccb.svg?style=for-the-badge&logo=PostgreSQL&logoColor=dc5831" alt="Postgres"/>
 </div>
 
 ### ✉ Contacto
