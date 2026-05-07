@@ -26,7 +26,20 @@ Actualmente trabajo principalmente con Angular, TypeScript e Ionic, desarrolland
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,bootstrap,tailwind,nodejs,firebase,git,github,vscode,figma" />
+<img title="Angular" src="https://skillicons.dev/icons?i=angular" />
+<img title="TypeScript" src="https://skillicons.dev/icons?i=ts" />
+<img title="JavaScript" src="https://skillicons.dev/icons?i=js" />
+<img title="HTML5" src="https://skillicons.dev/icons?i=html" />
+<img title="CSS3" src="https://skillicons.dev/icons?i=css" />
+<img title="Sass" src="https://skillicons.dev/icons?i=sass" />
+<img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
+<img title="Tailwind" src="https://skillicons.dev/icons?i=tailwind" />
+<img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" />
+<img title="Firebase" src="https://skillicons.dev/icons?i=firebase" />
+<img title="Git" src="https://skillicons.dev/icons?i=git" />
+<img title="GitHub" src="https://skillicons.dev/icons?i=github" />
+<img title="VS Code" src="https://skillicons.dev/icons?i=vscode" />
+<img title="Figma" src="https://skillicons.dev/icons?i=figma" />
 
 </div>
 
@@ -48,11 +61,11 @@ Actualmente trabajo principalmente con Angular, TypeScript e Ionic, desarrolland
 <div align="center">
 
 <a href="https://www.linkedin.com/in/lizetteperez-correa/">
-  <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:lizette.perezcorrea@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
