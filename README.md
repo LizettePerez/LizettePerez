@@ -1,30 +1,66 @@
-<div id=header align=center>
-  <h2>¡Hola! 👋 Soy Lizette</h2>
+<div align="center">
+
+# ¡Hola! 👋 Soy Lizette
+
+### Frontend Developer | Angular • TypeScript • Ionic
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header"/>
+
 </div>
 
-![banner](https://camo.githubusercontent.com/cb3d8a54bb69b30003dd51290d740c041e812df4d5dd2c45c3d1bd7a8e74e391/68747470733a2f2f696b2e696d6167656b69742e696f2f6a6f796365517565727562696e6f2f706572736f6e6167656d5f4d4c62567679624d62372e676966)  
+<p align="center">
+  <img src="BANNER"/>
+</p>
 
-¡Bienvenido/a a mi perfil de GitHub! Soy una Desarrolladora Web, estudiante de @Laboratoria y @TalentoDigitalChile, apasionada por crear experiencias digitales y construir aplicaciones web. Me encanta trabajar en proyectos desafiantes y aprender nuevas tecnologías. Me considero una persona creativa y orientada a los detalles.
+---
 
-### ✨ Me encanta trabajar con
-<div id="badge" align=left>
-    <img src="https://img.shields.io/badge/HTML5-cccccb?style=for-the-badge&logo=html5&logoColor=dc5831" alt="HTML Badge"/>
-    <img src="https://img.shields.io/badge/CSS3-cccccb.svg?style=for-the-badge&logo=CSS3&logoColor=dc5831" alt="CSS Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-cccccb.svg?style=for-the-badge&logo=JavaScript&logoColor=dc5831" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-cccccb.svg?style=for-the-badge&logo=nodedotjs&logoColor=dc5831" alt="Node-Js"/>
+## ✨ Sobre mí
+
+Desarrolladora Frontend enfocada en crear interfaces modernas, responsivas y centradas en la experiencia de usuario.
+
+Actualmente trabajo principalmente con Angular, TypeScript e Ionic, desarrollando aplicaciones web escalables, componentes reutilizables y experiencias visuales modernas.
+
+---
+
+## 🚀 Stack & Herramientas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,bootstrap,tailwind,nodejs,firebase,git,github,vscode,figma" />
+
 </div>
 
-### ✉ Contacto
-No dudes en contactarme si quieres colaborar en algún proyecto o simplemente charlar sobre tecnología! Estoy emocionada de conectar con personas apasionadas y aprender juntos.
-<div id="contact" align=left>
-  <a href="https://www.linkedin.com/in/lizetteperez-correa/">
-    <img src="https://img.shields.io/badge/LinkedIn-cccccb?style=for-the-badge&logo=linkedin&logoColor=dc5831" alt="LinkedIn Badge"/>
-  </a>
-  <a href="lizette.perezcorrea@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-cccccb?style=for-the-badge&logo=gmail&logoColor=dc5831" alt="Gmail Badge"//>
-  </a>
+---
+
+## 💼 Enfoque Profesional
+
+✨ Desarrollo Frontend con Angular  
+✨ Componentes reutilizables y escalables  
+✨ Interfaces responsive y UX/UI  
+✨ Integración de APIs REST  
+✨ Aplicaciones híbridas con Ionic  
+✨ Mejora continua y aprendizaje constante  
+
+---
+
+## 🌐 Conecta conmigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/lizetteperez-correa/">
+  <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:lizette.perezcorrea@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-6C63FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
+---
 
+<div align="center">
 
-¡Gracias por visitar mi perfil de GitHub!
+✨ Gracias por visitar mi perfil ✨
+
+</div>
