@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=7C3AED&center=true&vCenter=true&width=700&lines=Frontend+Developer;Angular+%E2%80%A2+TypeScript+%E2%80%A2+Ionic;Creando+experiencias+web+modernas" />
+</p>
+
 # ¡Hola! 👋 Soy Lizette
 
 ### Frontend Developer | Angular • TypeScript • Ionic
@@ -9,52 +13,58 @@
 </div>
 
 <p align="center">
-  <img src="BANNER"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2"/>
 </p>
-
----
 
 ## ✨ Sobre mí
 
-Desarrolladora Frontend enfocada en crear interfaces modernas, responsivas y centradas en la experiencia de usuario.
+Frontend Developer especializada en Angular, TypeScript e Ionic, enfocada en construir interfaces modernas, escalables y centradas en la experiencia de usuario.
 
-Actualmente trabajo principalmente con Angular, TypeScript e Ionic, desarrollando aplicaciones web escalables, componentes reutilizables y experiencias visuales modernas.
+Me interesa crear productos visualmente atractivos, mantener buenas prácticas de desarrollo y seguir creciendo dentro del ecosistema frontend.
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2"/>
+</p>
 
 ## 🚀 Stack & Herramientas
 
 <div align="center">
 
-<img title="Angular" src="https://skillicons.dev/icons?i=angular" />
-<img title="TypeScript" src="https://skillicons.dev/icons?i=ts" />
-<img title="JavaScript" src="https://skillicons.dev/icons?i=js" />
-<img title="HTML5" src="https://skillicons.dev/icons?i=html" />
-<img title="CSS3" src="https://skillicons.dev/icons?i=css" />
-<img title="Sass" src="https://skillicons.dev/icons?i=sass" />
-<img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
-<img title="Tailwind" src="https://skillicons.dev/icons?i=tailwind" />
-<img title="Node.js" src="https://skillicons.dev/icons?i=nodejs" />
-<img title="Firebase" src="https://skillicons.dev/icons?i=firebase" />
-<img title="Git" src="https://skillicons.dev/icons?i=git" />
-<img title="GitHub" src="https://skillicons.dev/icons?i=github" />
-<img title="VS Code" src="https://skillicons.dev/icons?i=vscode" />
-<img title="Figma" src="https://skillicons.dev/icons?i=figma" />
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,bootstrap,tailwind" />
+
+<br>
+
+### Backend & Cloud
+
+<img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+
+<br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 </div>
 
----
 
-## 💼 Enfoque Profesional
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2"/>
+</p>
 
-✨ Desarrollo Frontend con Angular  
-✨ Componentes reutilizables y escalables  
-✨ Interfaces responsive y UX/UI  
-✨ Integración de APIs REST  
-✨ Aplicaciones híbridas con Ionic  
-✨ Mejora continua y aprendizaje constante  
+## 💜 Actualmente
 
----
+- Desarrollo de aplicaciones frontend con Angular
+- Creación de componentes reutilizables y escalables
+- Diseño de interfaces responsive y modernas
+- Integración de APIs REST
+- Desarrollo híbrido con Ionic
+- Aprendizaje continuo de nuevas tecnologías frontend
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2"/>
+</p>
 
 ## 🌐 Conecta conmigo
 
@@ -70,7 +80,9 @@ Actualmente trabajo principalmente con Angular, TypeScript e Ionic, desarrolland
 
 </div>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2"/>
+</p>
 
 <div align="center">
 
