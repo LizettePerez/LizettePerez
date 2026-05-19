@@ -18,21 +18,19 @@
 
 ## ✨ Sobre mí
 
-Frontend Developer especializada en Angular, TypeScript e Ionic, enfocada en construir interfaces modernas, escalables y centradas en la experiencia de usuario.
-
-Me interesa crear productos visualmente atractivos, mantener buenas prácticas de desarrollo y seguir creciendo dentro del ecosistema frontend.
+Frontend Developer especializada en Angular, TypeScript e Ionic, enfocada en construir aplicaciones modernas, escalables y centradas en experiencia de usuario. Me interesa el desarrollo de interfaces responsive, arquitectura basada en componentes y creación de experiencias web visualmente atractivas.
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=7C3AED&height=2"/>
 </p>
 
-## 🚀 Stack & Herramientas
+## 🚀 Stack & Tools
 
 <div align="center">
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,tailwind" />
 
 <br>
 
